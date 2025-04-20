@@ -1,0 +1,3 @@
+1. Zhang SL, Yu Y, Roos J, Kozak JA, Deerinck TJ, Ellisman MH, Stauderman KA and Cahalan MD (2005). STIM1 is a Ca2+ sensor that activates CRAC channels and migrates from the Ca2+ store to the plasma membrane. Nature 437, 902-905.
+2. Muik M, Frischauf I, Derler I, Fahrner M, Bergsmann J, Eder P, Schindl R, Hesch C, Polzinger B, Fritsch R, et al. (2008). Dynamic coupling of the putative coiled-coil domain of ORAI1 with STIM1 mediates ORAI1 channel activation. Journal of Biological Chemistry 283, 8014-8022.
+3. Smith JA, Jones BC and Wilson EF (2023). A hypothetical paper that should not find a PMID. Journal of Made Up Science 1, 1-10.
